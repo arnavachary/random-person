@@ -1,0 +1,21 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  background-color: aliceblue !important;
+}
+
+.container {
+  width: 45vw !important;
+  height: 55vh !important;
+  background-color: white !important;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.container > img {
+  border-radius: 100% !important;
+  height: 100px !important;
+  width: 100px !important;
+  border: 1px solid blue;
+}
